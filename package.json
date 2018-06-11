@@ -10,9 +10,7 @@
 		}
 	},
 	"dependencies": {
-		"nativescript-bitmap-factory": "^1.7.1",
 		"nativescript-camera": "^4.0.2",
-		"nativescript-fresco": "^3.0.7",
 		"nativescript-image-cache-it": "^3.0.7",
 		"nativescript-theme-core": "~1.0.2",
 		"tns-core-modules": "~3.2.0"
