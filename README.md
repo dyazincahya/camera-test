@@ -1,7 +1,7 @@
 # camera-test
 This is a camera-test + list photo in nativescript 
 
-![SS being loaded...](https://raw.githubusercontent.com/dyazincahya/camera-test/master/screenshot.png)
+![ScreenShot](https://raw.githubusercontent.com/dyazincahya/camera-test/master/screenshot.png)
 
 ## Requirement
 - nativescript 3.2.1
