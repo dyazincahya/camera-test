@@ -1,0 +1,17 @@
+<Page 
+    xmlns="http://schemas.nativescript.org/tns.xsd" 
+    navigatingTo="onNavigatingTo" 
+    loaded="onLoaded" 
+    class="page"
+    xmlns:i="nativescript-image-cache-it"
+    xmlns:nativescript-fresco="nativescript-fresco">
+    
+    <Page.actionBar>
+        <ActionBar title="Camera Test" icon="" class="action-bar"></ActionBar>
+    </Page.actionBar>
+
+    <StackLayout class="p-20">
+        <Button text="Take Photo" tap="takeNow" class="btn btn-primary btn-active"/>
+        <Button text="List Photo" tap="abc" class="btn btn-primary btn-active"/>
+    </StackLayout>
+</Page>
